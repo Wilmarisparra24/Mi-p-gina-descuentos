@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Generador de Descuentos</title>
 </head>
 <body>
     <h1>Sube tu imagen para obtener un descuento</h1>
